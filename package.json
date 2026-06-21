@@ -1,0 +1,13 @@
+{
+  "name": "telegram-mini-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3",
+    "@supabase/supabase-js": "^2.39.0"
+  }
+}
